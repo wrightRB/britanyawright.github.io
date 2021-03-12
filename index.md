@@ -8,6 +8,18 @@ Let's try a few `combinations`:
 ***This text is formatted with strong emphasis too.***
 
 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+Heading 1 - Alternative Syntax
+========
+
+Heading 2 - Alternative Syntax
+
 
 ## _Welcome to Britanya Wright_ 
 
