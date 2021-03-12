@@ -1,3 +1,10 @@
+You should read this, it's **very important**.
+You _might_ want to read this.
+~~Never mind~~ - it wasn't _that_ important.
+
+
+
+
 ## _Welcome to Britanya Wright_ 
 
 **You** can use the [editor on GitHub](https://github.com/wrightRB/britanyawright.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
