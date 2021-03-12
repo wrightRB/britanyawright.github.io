@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Britanya Wright 
 
 You can use the [editor on GitHub](https://github.com/wrightRB/britanyawright.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
